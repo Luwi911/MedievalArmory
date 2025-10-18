@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html> 
+
+<head>
+<meta charset="utf-8">
+<title>Title of the page</title>
+<meta name="viewport" content="width=device-width, initial-
+scale=1" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+<link rel="stylesheet" href="home.css" />
+<link rell="stylesheet" href="reset.css"/>
+</head>
+<body>
+<header> 
+<h1> Medieval Armory</h1>
+<ul> 
+<li><a href="Home"> Home </a> </a></li>
+<li><a href="About"> About </a> </a></li>
+<li><a href="Shop"> Shop </a> </a></li>
+</ul>
+</header>
+
+<main> 
+    <div class="D-container">
+<h1> Contact Info</h1>
+<form> 
+        <ul>
+          <li> <h3>Contact Form</h3></li>
+          <li> 
+            <label for="fullname"> Name:</label>
+            <input type="text" id="fullname" name="fullname" placeholder="Willaim Afton"/>
+          </li>
+          <li> 
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="FiveNights@fred.com"/>
+          </li>
+          <li><button type="submit">Submit</button></li>
+        </ul>
+      </form>
+
+      <ul>
+          <li><h3>Business Inquiries</h3></li>
+          <li> MArmory@med.ca</li>
+
+      </ul>
+</div>
+
+
+
+</main>
+
+<footer>
+    <div class="flex-container">
+
+<ul> 
+<li><h3> Customer Support</h3></li>
+<li><a href="Home"> Home </a> </a></li>
+<li><a href="About"> About us</a> </a></li>
+<li><a href="Contact"> Contact </a> </a></li>
+
+</ul>
+</div>
+
+<div class="Box-container">                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+</div> 
+
+</footer>
+</body>
+</html>

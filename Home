@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html> 
+
+<head>
+<meta charset="utf-8">
+<title>Title of the page</title>
+<meta name="viewport" content="width=device-width, initial-
+scale=1" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+<link rel="stylesheet" href="home.css" />
+<link rell="stylesheet" href="reset.css"/>
+</head>
+<body>
+<header> 
+<h1> Medieval Armory</h1>
+<ul> 
+<li><a href="Home"> Home </a> </a></li>
+<li><a href="About"> About </a> </a></li>
+<li><a href="Shop"> Shop </a> </a></li>
+</ul>
+</header>
+
+<main>
+    <div class="b-container"> 
+    <img src="images/pexels-lxivui-7229896.jpg" alt="Breastplate Variants" width="600">
+        <div class="C-container">
+    <h1> What are our products</h1>
+    <p>Here we sell all kinds of medieval armor. Armor that dates back to the M era for collectors and modern made armor also for collectors or for cosplayers
+        </div>
+    </div>
+    <h2> Armor Variants</h2>
+    <ul> 
+        <li>Steel</li>
+        <li>Steel with Gold padding</li>
+        <li>chainmail</li>
+        <li>decorated </li>
+    </ul>
+
+
+</p>
+
+</main>
+
+
+<footer>
+    <div class="flex-container">
+
+<ul> 
+<li><h3> Customer Support</h3></li>
+<li><a href="Home"> Home </a> </a></li>
+<li><a href="About"> About us</a> </a></li>
+<li><a href="Shop"> Shop </a> </a></li>
+<li><a href="Contact"> Contact </a> </a></li>
+
+</ul>
+</div>
+
+<div class="Box-container">                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+</div> 
+
+</footer>
+</body>
+</html>
